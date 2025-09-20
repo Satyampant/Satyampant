@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://satyampant.github.io/portfolio/](https://satyampant.github.io/portfolio/)
 
-- 💬 Ask me about **Python, ML**
+- 💬 Ask me about **Python, ML, LLM, DL, NLP, Gen AI, Agentic AI**
 
 - 📫 How to reach me **satyampant420@gmail.com**
 
