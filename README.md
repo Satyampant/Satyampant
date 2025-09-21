@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Pant</h1>
 <h3 align="center">A passionate Machine Learning student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+<img align="right" alt="coding" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyampant&label=Profile%20views&color=0e75b6&style=flat" alt="satyampant" /> </p>
 
