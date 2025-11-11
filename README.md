@@ -19,9 +19,11 @@
 <a href="https://linkedin.com/in/satyam pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam pant" height="30" width="40" /></a>
 </p>
 
+# 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+# 🤖 AI & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-2E77BC?style=for-the-badge&logo=spacy&logoColor=white)
@@ -32,6 +34,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B32C3?style=for-the-badge&logo=openai&logoColor=white)
 ![LLMOps](https://img.shields.io/badge/LLMOps-FFB000?style=for-the-badge&logo=mlflow&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-1D3557?style=for-the-badge&logo=dvc&logoColor=white)
+# ⚙️ Frameworks & Tools
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-9146FF?style=for-the-badge&logo=graph&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -45,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+# ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS%20(S3%2C%20EC2%2C%20Lambda)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
